@@ -1,0 +1,40 @@
+header{
+    background-color:white;
+}
+#headImg{
+    height: 75px;
+    display: inline;
+}
+#h1Header{
+    font-size: 25px;
+    display: inline;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    font-weight: 600;
+    color:black;
+}
+
+#searchBar{
+    margin-top: 11px;
+    display: inline;
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+footer{
+    height: 100px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(56, 55, 55);
+    color: white;
+    text-align: center;
+}
+
+#submit{
+    color: black;
+    
+}
